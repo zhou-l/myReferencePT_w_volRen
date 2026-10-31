@@ -1,6 +1,6 @@
 # The Reference Path Tracer Code Sample with a Volume Renderer
 
-The code is based on the ["Reference Path Tracer"](https://github.com/boksajak/referencePT/blob/) with a volume renderer.
+The code is based on the ["Reference Path Tracer"](https://github.com/boksajak/referencePT/) with a volume renderer.
 
 # Information about the original project is as follows
 
