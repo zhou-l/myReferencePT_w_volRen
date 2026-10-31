@@ -6,7 +6,7 @@ The code is based on the ["Reference Path Tracer"](https://github.com/boksajak/r
 
 This is a supplemental code accompanying Ray Tracing Gems II, Chapter 14: The Reference Path Tracer. Code is based on [IntroToDXR](https://github.com/acmarrs/IntroToDXR/) and implements a path tracer described in the article. The sample application loads GLTF scenes, specified via command line. The core of the path tracer can be found in single HLSL file - `PathTracer.hlsl`.
 
-!["Reference Path Tracer](https://github.com/zhou-l/myReferencePT_w_volRen/main/cornellboxCloud_w_ptLight.png) "Reference Path Tracer Output")
+!["Reference Path Tracer](https://github.com/zhou-l/myReferencePT_w_volRen/main/cornellboxCloud_w_ptLight.png "Reference Path Tracer Output")
 
 
 ## Command Line Arguments
